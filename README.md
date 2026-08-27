@@ -1,8 +1,9 @@
-👋 Hi, I’m @DianaNau
-👀 I’m interested in solving complex challenges, coding, and contributing to exciting projects.
-🌱 I’m currently learning software development as part of my shooling at IBB, focusing on programming languages and modern technologies.
-💞️ I’m looking to collaborate on projects where I can apply my coding skills and grow as a developer.
-📫 How to reach me: d.naumovic@outlook.de
+## Hi, I'm Diana 👋
+
+I'm a developer. Below are the projects I'm working on right now — feel free to look around.
+
+📫 Questions, or want to work together? Just drop me a message:
+[diana.naumovic@outlook.de](mailto:diana.naumovic@outlook.de)
 
 
 <!---
