@@ -3,7 +3,7 @@
 I'm a developer. Below are the projects I'm working on right now — feel free to look around.
 
 📫 Questions, or want to work together? Just drop me a message:
-[diana.naumovic@outlook.de](mailto:diana.naumovic@outlook.de)
+[d.naumovic@outlook.de](mailto:d.naumovic@outlook.de)
 
 
 <!---
